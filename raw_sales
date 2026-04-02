@@ -1,0 +1,6 @@
+order_id,order_date,store_id,product_id,category,sales,quantity
+1,2023-01-01,101,2001,Electronics,1200,2
+2,2023-01-02,102,2002,Clothing,800,3
+3,2023-01-03,101,2003,Grocery,300,5
+4,2023-01-04,103,2001,Electronics,1500,2
+5,2023-01-05,102,2002,Clothing,900,4
